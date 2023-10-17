@@ -1,7 +1,7 @@
 # Sana Commerce Software Development Courses `24 
 ![Sana_Commerce_Logo](https://github.com/FearlessAtom/Task1/assets/141677107/f1249e47-e766-41d2-98fa-16c31dee50af)
 # Практична робота №1
-## Основні завдання
+### Основні завдання
 ### У практичній роботі №1 було:
 1. створено локальний репозиторій
 2. створено віддалений репозиторій на GitHub
